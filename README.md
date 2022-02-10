@@ -3,8 +3,10 @@
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
+<a href="https://cooltext.com"><img src="https://images.cooltext.com/5582540.png" width="358" height="106" alt="Alien Glow" /></a>
+<br />Image by <a href="https://cooltext.com">Cool Text: Logo and Button Generator</a> - <a href="https://cooltext.com/Edit-Logo?LogoID=4040752111">Create Your Own Logo</a>
+
 
 <!---
 ManuStorm7/ManuStorm7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
---->
