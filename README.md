@@ -1,9 +1,13 @@
-- 👋 Hi, I’m @ManuStorm7
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-
 <a href="https://cooltext.com"><img src="https://images.cooltext.com/5582540.png" width="358" height="106" alt="Alien Glow" /></a>
-<br />Image by <a href="https://cooltext.com">Cool Text: Logo and Button Generator</a> - <a href="https://cooltext.com/Edit-Logo?LogoID=4040752111"
+
+### Hola Mundo 👋
+
+- 👋 Hola, soy Ernesto Manuel, actualmente soy estudiante universitario en la carrera ISC en el Intituto Tecnologico de Tijuana
+- 👀 Estoy interesado en aprender mas programacion, crear medios visuales, buenas peliculas y rica comida
+- 🌱 Actualmente estoy aprendiendo diseño web y un poco de base de datos
+- 🤔 Soy un poco nuevo en GitHub pero espero poder sacarle mucho provecho a esta plataforma
+
+MI HORARIO DE CLASES
 
 | HRA   | LUNES                                     | MARTES                                    | MIERCOLES                                 | JUEVES                                    | VIERNES                                   |
 |-------|-------------------------------------------|-------------------------------------------|-------------------------------------------|-------------------------------------------|-------------------------------------------|
