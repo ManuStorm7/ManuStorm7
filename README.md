@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @ManuStorm7
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
 
 <a href="https://cooltext.com"><img src="https://images.cooltext.com/5582540.png" width="358" height="106" alt="Alien Glow" /></a>
-<br />Image by <a href="https://cooltext.com">Cool Text: Logo and Button Generator</a> - <a href="https://cooltext.com/Edit-Logo?LogoID=4040752111">Create Your Own Logo</a>
+<br />Image by <a href="https://cooltext.com">Cool Text: Logo and Button Generator</a> - <a href="https://cooltext.com/Edit-Logo?LogoID=4040752111"
 
 | HRA   | LUNES                                     | MARTES                                    | MIERCOLES                                 | JUEVES                                    | VIERNES                                   |
 |-------|-------------------------------------------|-------------------------------------------|-------------------------------------------|-------------------------------------------|-------------------------------------------|
